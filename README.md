@@ -56,5 +56,5 @@ notebooks contain sections that may depend on earlier preparation.
 - Daniel: Dataset source and loading.
 - Dara: Exploratory data analysis and visualization, Slides.
 - Solomon: Data preparation and train/test splitting.
-- Eiza: Model training, comparison and selection, README file.
+- Eiza: Model training, comparison and selection, README file, Data Dictionary.
 - Odinaka: Model evaluation and baseline comparison.
