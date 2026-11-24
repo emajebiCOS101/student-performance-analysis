@@ -28,26 +28,25 @@ universities, and predictions are not guaranteed outcomes.
 
 - `Student_Performance_Project.ipynb`: Complete workflow, including
   data loading, exploration, preparation, modelling and evaluation.
-- Individual member notebooks: Each member’s contribution.
+- `Daniel_Data_Loading.ipynb`: Dataset source and loading.
+- `Dara_Exploration.ipynb`: Exploratory analysis and visualisations.
+- `Solomon_Data_Preparation.ipynb`: Data checks, feature selection,
+  outcome labels and train/test splitting.
+- `Eiza_Model_Training.ipynb`: Model comparison, selection and training.
+- `Odinaka_Model_Evaluation.ipynb.ipynb`: Baseline comparison and evaluation.
 - `Student Performance Dataset 2024.csv`: Original dataset.
-- `student_performance_cleaned.csv`: Prepared features and pass/fail label.
+- `cleaned_data.csv`: Prepared features and pass/fail label.
 - `requirements.txt`: Python libraries required to run the code.
 - Presentation PDF: Project findings, results and recommendations.
 
 ## How to run the Code
-
 1. Open `Student_Performance_Project.ipynb` in Google Colab.
-2. Download the original dataset CSV from this repository.
-3. Upload it into Colab using the Files panel, keeping its filename
-   as `Student Performance Dataset 2024.csv`.
-4. The notebook loads it from:
-   `/content/Student Performance Dataset 2024.csv`.
-5. Run the notebook cells in order from top to bottom.
+2. Connect to a runtime.
+3. Run all cells in order from top to bottom. The dataset is loaded
+   directly from the public GitHub repository, so no manual upload
+   is required.
 
-The required libraries are listed in `requirements.txt`. If any are
-unavailable, run this in a Colab code cell:
-
-    %pip install pandas matplotlib seaborn scikit-learn
+The required libraries are listed in `requirements.txt`
 
 Use the complete notebook to run the full project. Individual
 notebooks contain sections that may depend on earlier preparation.
@@ -57,5 +56,5 @@ notebooks contain sections that may depend on earlier preparation.
 - Daniel: Dataset source and loading.
 - Dara: Exploratory data analysis and visualisation.
 - Solomon: Data preparation and train/test splitting.
-- Eiza: Model training, comparison and selection.
+- Eiza: Model training, comparison and selection, README file, slides.
 - Odinaka: Model evaluation and baseline comparison.
