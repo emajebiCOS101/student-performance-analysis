@@ -26,7 +26,7 @@ universities, and predictions are not guaranteed outcomes.
 
 ## Repository Contents
 
-- `Student_Performance_Project.ipynb`: Complete workflow, including
+- `Students_Performance_Project.ipynb`: Complete workflow, including
   data loading, exploration, preparation, modelling and evaluation.
 - `Daniel_Data_Loading.ipynb`: Dataset source and loading.
 - `Dara_Exploration.ipynb`: Exploratory analysis and visualisations.
