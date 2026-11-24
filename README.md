@@ -54,7 +54,7 @@ notebooks contain sections that may depend on earlier preparation.
 ## Group Contributions
 
 - Daniel: Dataset source and loading.
-- Dara: Exploratory data analysis and visualisation.
+- Dara: Exploratory data analysis and visualization, Slides.
 - Solomon: Data preparation and train/test splitting.
-- Eiza: Model training, comparison and selection, README file, slides.
+- Eiza: Model training, comparison and selection, README file.
 - Odinaka: Model evaluation and baseline comparison.
